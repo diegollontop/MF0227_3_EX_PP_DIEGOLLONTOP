@@ -61,7 +61,7 @@ Sigue estos pasos en tu terminal para replicar el entorno y ejecutar el proyecto
    python manage.py runserver
    ```
    * **Aplicación Web:** `http://127.0.0`
-   * **Panel Admin:** `http://127.0.0admin/`
+   * **Panel Admin:** `http://127.0.0/admin/`
 
 ---
 
